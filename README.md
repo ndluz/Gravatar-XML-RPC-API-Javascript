@@ -1,5 +1,5 @@
 
-# 📷 Gravatar XML-RPC API Javascript 📷
+#  Gravatar XML-RPC API Javascript 
 
 
 A XML-RPC API Gravatar using JavaScript and Axios, with all methods implemented.
